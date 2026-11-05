@@ -6,7 +6,7 @@
   - A navegação deve permitir saltar com clareza entre apresentação, atuação, escritório e contato.
 
 - [x] **Credibilidade e prova social**
-  - Destacar, sem extrapolações, a informação fornecida de 5.018 avaliações no Google.
+  - Destacar, sem extrapolações, a informação fornecida de 18 avaliações no Google, todas com 5,0 estrelas.
   - Usar tom profissional e acolhedor sem inventar certificações, especialidades, nomes, números ou resultados.
 
 - [x] **Áreas de atuação**

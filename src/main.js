@@ -78,7 +78,7 @@ app.innerHTML = `
     <section class="proof-strip" aria-label="Números de credibilidade">
       <div class="container proof-grid">
         <div class="proof-intro"><span class="proof-kicker">A confiança de quem já esteve aqui</span><strong>O seu caso merece atenção de verdade.</strong></div>
-        <div class="proof-item"><strong>5.018</strong><span>avaliações no Google</span></div>
+        <div class="proof-item"><strong>18</strong><span>avaliações no Google · 5,0 estrelas</span></div>
         <div class="proof-item"><strong>01</strong><span>escritório, perto de você</span></div>
         <div class="proof-item proof-link"><a href="https://www.google.com/search?q=Machado+Filho+Advocacia+Hidrol%C3%A2ndia" target="_blank" rel="noreferrer">Ver avaliações ${icon('arrow')}</a></div>
       </div>
