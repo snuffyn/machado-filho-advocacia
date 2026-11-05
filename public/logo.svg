@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="14" fill="#102a43"/>
+  <rect x="21" y="21" width="86" height="86" fill="none" stroke="#c8a15a" stroke-width="3"/>
+  <rect x="30" y="30" width="68" height="68" fill="none" stroke="#dfc27c" stroke-width="1" opacity=".65" transform="rotate(45 64 64)"/>
+  <text x="64" y="73" fill="#dfc27c" font-family="Arial, sans-serif" font-size="33" font-weight="700" text-anchor="middle" letter-spacing="-4">MF</text>
+</svg>
